@@ -1,0 +1,65 @@
+[
+  {
+    "id": 6,
+    "name": "Bananas",
+    "price": "89.25",
+    "createdAt": "2023-12-14T08:16:00.000Z",
+    "updatedAt": "2023-12-14T06:41:29.469Z"
+  },
+  {
+    "id": 8,
+    "name": "Eggs",
+    "price": "3.49",
+    "createdAt": "2023-12-14T08:18:00.000Z",
+    "updatedAt": "2023-12-14T08:18:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Bread",
+    "price": "2.99",
+    "createdAt": "2023-12-14T08:19:00.000Z",
+    "updatedAt": "2023-12-14T08:19:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Tomatoes",
+    "price": "1.99",
+    "createdAt": "2023-12-14T08:20:00.000Z",
+    "updatedAt": "2023-12-14T08:20:00.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Potatoes",
+    "price": "2.49",
+    "createdAt": "2023-12-14T08:21:00.000Z",
+    "updatedAt": "2023-12-14T08:21:00.000Z"
+  },
+  {
+    "id": 17,
+    "name": "Avocado",
+    "price": "2.79",
+    "createdAt": "2023-12-14T08:27:00.000Z",
+    "updatedAt": "2023-12-14T08:27:00.000Z"
+  },
+  {
+    "id": 18,
+    "name": "Strawberries",
+    "price": "4.99",
+    "createdAt": "2023-12-14T08:28:00.000Z",
+    "updatedAt": "2023-12-14T08:28:00.000Z"
+  },
+  {
+    "id": 19,
+    "name": "Pineapple",
+    "price": "3.49",
+    "createdAt": "2023-12-14T08:29:00.000Z",
+    "updatedAt": "2023-12-14T08:29:00.000Z"
+  },
+  {
+    "id": 20,
+    "name": "waterJet",
+    "price": 20.99,
+    "createdAt": "2023-12-14T08:30:00.000Z",
+    "updatedAt": "2023-12-14T06:40:03.944Z"
+  }
+]
